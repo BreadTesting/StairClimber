@@ -1,2 +1,2 @@
 # StairClimber
-Arduino code and mit app for stair climber project
+Arduino code, mit app and Proteus file for stair climber project
